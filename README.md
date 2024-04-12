@@ -67,14 +67,15 @@ poetry install
 
 ### Running TD-MPC
 
-    ```
-    poetry run python src/tdmpc.py 
-    ```
+```
+poetry run python src/tdmpc.py 
+```
+
 ### Running TD-MPC2
 
-    ```
-    poetry run python src/tdmpc2.py 
-    ```
+```
+poetry run python src/tdmpc2.py 
+```
 
 ## Options
 
